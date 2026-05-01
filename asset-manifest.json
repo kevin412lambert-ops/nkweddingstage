@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nkweddingstage/static/css/main.e6f321bb.css",
+    "main.js": "/nkweddingstage/static/js/main.ea73b009.js",
+    "index.html": "/nkweddingstage/index.html",
+    "main.e6f321bb.css.map": "/nkweddingstage/static/css/main.e6f321bb.css.map",
+    "main.ea73b009.js.map": "/nkweddingstage/static/js/main.ea73b009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f321bb.css",
+    "static/js/main.ea73b009.js"
+  ]
+}
